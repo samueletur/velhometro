@@ -11,7 +11,7 @@ $kms = $dateInterval->days * 37.5;
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="/dist/output.css" rel="stylesheet">
+  <link href="https://antonioborba.com.br/velhometro/dist/output.css" rel="stylesheet">
 </head>
 <body class="h-screen overflow-hidden flex items-center bg-yellow-500 justify-center">
     <div class="min-w-screen min-h-screen flex items-center justify-center px-5 py-5">
