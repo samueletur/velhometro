@@ -21,7 +21,6 @@ $kms = $dateInterval->days * 37.5;
             <div class="text-6xl lg:text-9xl text-center flex w-full items-center justify-center">
                 <div class="mx-1 px-8 py-3 bg-white text-yellow-500 rounded-lg">
                     <div class="font-mono leading-none" x-text="days"><?=$kms?><span class="font-mono uppercase text-2xl">Km<small>s</small></span></div>
-                    
                 </div>
             </div>
         </div>
